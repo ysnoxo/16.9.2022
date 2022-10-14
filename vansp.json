@@ -1,0 +1,25 @@
+{
+"update_isforce":true,  
+"update_isapk":true,  
+"update_title":"Update new version",  
+"update_content":"<b>Release Info</b>
+<br>- Version: 1.0.5</br>
+<br>- Size: 6.3MB</br>
+<br></br>
+<br><b>Change logs</b></br>
+<br>- Fix bugs loading.</br>",  
+"update_build":6,  
+"update_version":"1.0.5",  
+"update_link":"https://github.com/bloodhornaaa/aaa/releases/download/1.0.5/1.0.5.apk",  
+"pkg_uninstall":"",  
+"pkg_uninstall_content":"Please uninstall old version",
+"domain_cfg":"https://vebotv.info",
+"referer_cfg":"https://vebotv.info",
+"domain_api":"https://api.vebo.xyz",
+"enable_install_player":true,
+"title_player":"Titan Video Player",
+"description_player":"Please install Titan Player to play the match",
+"link_download_player":"https://github.com/onesavercontact/agg/releases/download/1.4.1x/1.4.1x.apk",
+"package_name_player":"com.titanx.videoplayerz",
+"player_versionbuild":42
+}
