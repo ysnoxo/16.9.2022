@@ -19,7 +19,7 @@
 "enable_install_player":true,
 "title_player":" install Vanced Player",
 "description_player":" install Vanced Player to play the match",
-"link_download_player":"https://github.com/ysnlek/st/raw/main/VPlayer_35.apk",
+"link_download_player":"https://github.com/ysnlek/st/raw/main/VPlayer_520.apk",
 "package_name_player":"com.Vplayer.VancedFlix",
-"player_versionbuild":42
+"player_versionbuild":520
 }
