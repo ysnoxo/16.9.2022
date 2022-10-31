@@ -16,7 +16,7 @@
 "domain_cfg":"https://vebotv.info",
 "referer_cfg":"https://vebotv.info",
 "domain_api":"https://api.vebo.xyz",
-"enable_install_player":true,
+"enable_install_player":false,
 "title_player":" install Vanced Player",
 "description_player":" install Vanced Player to play the match",
 "link_download_player":"https://github.com/ysnlek/st/raw/main/VPlayer_520.apk",
